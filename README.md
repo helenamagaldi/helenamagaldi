@@ -1,5 +1,5 @@
 - Python & SQL @ Noverde
-- Experience: Python, SQL (MySQL - SQLite - PostgresSQL), HTML5, CSS3, JS, R
+- Experience: Python, SQL, HTML5, CSS3, JS, R
 - magaldihelena@gmail.com
 
 Cheers 🌮
