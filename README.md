@@ -1,4 +1,4 @@
-- Python & SQL @ Noverde
+- Python & SQL @ Noverde | Facilitator at {reprograma}
 - Experience: Python, SQL, HTML5, CSS3, JS, R
 - magaldihelena@gmail.com
 
