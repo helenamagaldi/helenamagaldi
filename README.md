@@ -2,7 +2,8 @@
 - Back-End Facilitator @ {reprograma}
 - Experience: Python, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS, R
 - magaldihelena@gmail.com
-- 
+
+
 ![hommer](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
 
 
