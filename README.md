@@ -3,11 +3,11 @@
 - Experience: Python, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS
 - magaldihelena@gmail.com
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
-![hommer](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
 
+<!-- ![hommer](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200.gif)
 
-<!--
 **helenamagaldi/helenamagaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
