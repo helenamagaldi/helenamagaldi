@@ -1,5 +1,5 @@
 - Python & SQL @ Noverde
-- Back-End Facilitator @ {reprograma}
+- Bootcamp Tech Lead @ {reprograma}
 - Experience: Python, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS
 - magaldihelena@gmail.com
 
