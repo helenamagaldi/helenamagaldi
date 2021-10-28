@@ -1,4 +1,4 @@
-- Python & SQL @ Noverde
+- Python developer
 - Bootcamp Tech Lead @ {reprograma}
 - Experience: Python, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS, node.js
 - magaldihelena@gmail.com
