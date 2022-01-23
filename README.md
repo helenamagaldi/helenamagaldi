@@ -1,4 +1,4 @@
-- Python developer
+- Back-End Developer
 - Software Engineer @ CESAR Labs
 - Experience: Python, Django, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS, node.js
 - magaldihelena@gmail.com
