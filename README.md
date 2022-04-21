@@ -1,5 +1,4 @@
 - Software Engineer @ CESAR Labs
-- Experience: Python, Django, SQL (PostgreSQL, MySQL, SQLite), HTML5, CSS3, JS, node.js
 - magaldihelena@gmail.com
 
 <!-- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
