@@ -1,4 +1,4 @@
-- Software Engineer @ CESAR Labs
+- Software Engineer | Data Scientist @ CESAR
 - magaldihelena@gmail.com
 
 <!-- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lariredivo&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
